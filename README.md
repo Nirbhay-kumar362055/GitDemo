@@ -1,2 +1,3 @@
 # GitDemo
-this is all about git and github
+hey i am learning github first time
+
